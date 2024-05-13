@@ -18,12 +18,12 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-My name is Joel (_/xo'el/_) and I love using computers and data to solve biological problems.
+My name is Joel (pronounced /xo'el/) and I am passionate about leveraging computational tools and data to address complex biological challenges.
 
-During my PhD my research focused in understanding how plants regulate their genomes in response to their environment.
+🌱 During my PhD, I explored how plants adapt their genomic expression in response to environmental changes.
 
-In 2020 I was a Health Data Science fellow at Insight Data Science where I created _SuppSmart_ ([link to repo](https://github.com/rodriguezmDNA/suppsmart)), an NLP-based recommendation system to suggest dietary supplements based on an user’s search query. I mined data from the Internet to create my own dataset and build an app by training a `word2vec` model from scratch.
+🤖 In 2020, I was a Health Data Science fellow at Insight Data Science, where I developed SuppSmart, a Natural Language Processing (NLP) based recommendation engine. This system suggests dietary supplements based on user queries, utilizing a dataset I curated from various online sources. I built the application by training a word2vec model from the ground up. Explore the repository [here](https://github.com/rodriguezmDNA/suppsmart).
 
-I joined Foodome/Naring Health, where I built tools to prioritize natural compounds in plants that could be beneficial to treat diseases in the context of a Network Medicine. The company was later [aquired by by Viome.Inc.](https://www.prnewswire.com/news-releases/viome-acquires-naring-health-to-further-its-lead-in-personalized-nutrition-and-longevity-301975499.html)
+🫐 I subsequently joined Foodome/Naring Health, focusing on identifying natural compounds in plants that could potentially treat diseases through a Network Medicine approach. The company was later [aquired by by Viome.Inc.](https://www.prnewswire.com/news-releases/viome-acquires-naring-health-to-further-its-lead-in-personalized-nutrition-and-longevity-301975499.html)
 
-Now I'm working at Freenome, helping the development of novel non-invasive tests for early cancer detection.
+🧪 Currently, I am at Freenome, contributing to the development of innovative non-invasive tests for early cancer detection.
