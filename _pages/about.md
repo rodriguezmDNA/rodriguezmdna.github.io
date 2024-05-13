@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Biologist | Genetics & Genomics PhD
+subtitle: Computational Biologist | Data Scientist | Genetics & Genomics PhD
 
 profile:
   align: right
@@ -20,8 +20,8 @@ My name is Joel ([xoˈel]) and I love using computers and data to solve biologic
 
 During my PhD my research focused in understanding how plants regulate their genomes in response to their environment. 
 
-As a Health Data Science fellow at Insight Data Science. There I created [`SuppSmart`](https://github.com/rodriguezmDNA/suppsmart), an NLP-based recommendation system to suggest dietary supplements based on an user’s search query. I mined data from the Internet to create my own dataset and build an app by training a `word2vec` model from scratch.
+In 2020 I was a Health Data Science fellow at Insight Data Science where I created [`SuppSmart`](https://github.com/rodriguezmDNA/suppsmart), an NLP-based recommendation system to suggest dietary supplements based on an user’s search query. I mined data from the Internet to create my own dataset and build an app by training a `word2vec` model from scratch.
 
-I worked at Foodome/Naring Health, helping build tools to prioritize natural compounds in plants that could be beneficial to treat diseases in the context of a Network Medicine. The company was later [aquired by by Viome.Inc.](https://www.prnewswire.com/news-releases/viome-acquires-naring-health-to-further-its-lead-in-personalized-nutrition-and-longevity-301975499.html)
+I joined Foodome/Naring Health, where I built tools to prioritize natural compounds in plants that could be beneficial to treat diseases in the context of a Network Medicine. The company was later [aquired by by Viome.Inc.](https://www.prnewswire.com/news-releases/viome-acquires-naring-health-to-further-its-lead-in-personalized-nutrition-and-longevity-301975499.html)
 
-Now I'm working at Freenome, helping develop assays for early cancer detection.
+Now I'm working at Freenome, helping the development of novel non-invasive tests for early cancer detection.
