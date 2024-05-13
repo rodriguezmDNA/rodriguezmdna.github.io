@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+---
+
 My name is Joel ([xoˈel]) and I love using computers and data to solve biological problems.
 
 During my PhD my research focused in understanding how plants regulate their genomes in response to their environment. 
