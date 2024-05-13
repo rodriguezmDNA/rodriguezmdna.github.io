@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Joel
 middle_name: 
 last_name: Rodriguez-Medina
@@ -162,8 +162,8 @@ giscus:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -176,7 +176,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:

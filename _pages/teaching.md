@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
+
+----
 
 
 # BIS 23B (Spring 2020) at UC Davis
@@ -17,4 +19,4 @@ Deployed [course materials](https://bookdown.org/joelrome88/bis23b/) for free in
 As part of the course I also co-lead the writing of a small publication with the students. We added 16 new strains of halophilic prokaryotes to a microbiology genome database. [Link to article](https://d1wqtxts1xzle7.cloudfront.net/71775904/e01540-19.full-libre.pdf).
 
 
-
+----
