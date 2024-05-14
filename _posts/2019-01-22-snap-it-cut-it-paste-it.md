@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _…snap it, work it, quick, erase it, write it, cut it, paste it, save it…_
+title: …snap it, work it, quick, erase it, write it, cut it, paste it, save it…
 date: 2019-01-22
 description: science communication write up on plant engineering
 tags:
@@ -32,6 +32,7 @@ As part of the program, I wrote a science communication piece on genome engineer
 <br>
 
 Unfortunately, the link to the article is broken, so I have reproduced the content here:
+<br>
 <br>
 
 <hr class="half-hr">
