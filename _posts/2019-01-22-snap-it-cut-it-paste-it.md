@@ -1,9 +1,9 @@
 ---
 layout: post
 title: _…snap it, work it, quick, erase it, write it, cut it, paste it, save it…_
-date: 2019-01-22 
+date: 2019-01-22
 description: science communication write up on plant engineering
-tags: 
+tags:
 categories: sci-comm
 ---
 
@@ -17,7 +17,7 @@ categories: sci-comm
     border: 0;
     border-top: 1px solid #ccc;
   }
-</style> 
+</style>
 
 ### Communicating science as an ASPB Scholar
 
@@ -32,7 +32,7 @@ As part of the program, I wrote a science communication piece on genome engineer
 <br>
 
 Unfortunately, the link to the article is broken, so I have reproduced the content here:
-
+<br>
 
 <hr class="half-hr">
 
@@ -67,12 +67,10 @@ However, all is not yet solved. The ability to edit a specific region of the DNA
 
 <br>
 
-
 ### References
 
-1.	Zsögön, A. et al. De novo domestication of wild tomato using genome editing. Nat. Biotechnol. 36, 1211–1216 (2018).
-2.	Khanday, I., Skinner, D., Yang, B., Mercier, R. & Sundaresan, V. A male-expressed rice embryogenic trigger redirected for asexual propagation through seeds. Nature 565, 91–95 (2019).
-3.	The title of this writing was taken from the song Technologic by Daft Punk.
+1. Zsögön, A. et al. De novo domestication of wild tomato using genome editing. Nat. Biotechnol. 36, 1211–1216 (2018).
+2. Khanday, I., Skinner, D., Yang, B., Mercier, R. & Sundaresan, V. A male-expressed rice embryogenic trigger redirected for asexual propagation through seeds. Nature 565, 91–95 (2019).
+3. The title of this writing was taken from the song Technologic by Daft Punk.
 
-
-----
+---
