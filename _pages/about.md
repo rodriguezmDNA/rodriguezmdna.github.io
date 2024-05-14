@@ -17,10 +17,9 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ---
-<br>
-<br>
-<br>
-<br>
+
+<div style="height: 100px;"></div>
+
 My name is Joel (pronounced /xo'el/) and I am passionate about leveraging computational tools and data to address complex biological challenges.
 
 🌱 During my PhD, I explored how plants adapt their genomic expression in response to environmental changes.
