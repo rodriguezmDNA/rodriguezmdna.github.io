@@ -127,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: rodriguezMDNA # blog_name will be displayed in your blog page
+blog_name: rodriguezmDNA # blog_name will be displayed in your blog page
 blog_description: a seldom collection of random musings
 permalink: /blog/:year/:title/
 
