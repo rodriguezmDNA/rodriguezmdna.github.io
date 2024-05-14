@@ -228,9 +228,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  ##
+  ## 
   - _pages/projects.md
-  - _pages/blog.md
+  # - _pages/blog.md
   - _pages/publications.md
 keep_files:
   - CNAME
