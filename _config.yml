@@ -10,7 +10,6 @@ email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
-  
 
 keywords: computational-biologist, data-scientist, genomics, bioinformatics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

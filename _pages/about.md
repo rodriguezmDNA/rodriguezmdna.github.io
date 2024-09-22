@@ -6,11 +6,10 @@ subtitle: Bioinformatics, Algorithms, Data Analysis, Science, and Statistics
 
 profile:
   align: center
-  image: 
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
-    
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,13 +28,11 @@ social: false # includes social icons at the bottom of the page
 <br>
 <hr class="half-hr">
 
-
 <div style="height: 50px;"></div>
 
 <p style="text-align: justify;">
 My name is Joel (pronounced /xo'el/) and I am passionate about leveraging computational tools and data to address complex biological challenges.
 <p/>
-
 
 <p style="text-align: justify;">
 🌱 During my PhD, I explored how plants adapt their genomic expression in response to environmental changes.
@@ -52,6 +49,5 @@ My name is Joel (pronounced /xo'el/) and I am passionate about leveraging comput
 <p style="text-align: justify;"> 🧪 I spent about two and a half years at <a href="https://www.freenome.com"> Freenome </a>, applying computational biology techniques to analyze cfDNA and contributing to the development of novel assays for early colorectal cancer (CRC) detection.</p>
 
 <p style="text-align: justify;"> 🧬 Recently, I transitioned to <a href="https://www.natera.com"> Natera </a>, where I continue to leverage computational tools and data to drive innovations in personalized medicine, with a focus on liquid biopsies and early cancer detection.</p>
-
 
 <div style="height: 50px;"></div>
