@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Biologist | Data Scientist | Genetics & Genomics PhD
+subtitle: Bioinformatics, Algorithms, Data Analysis, Science, and Statistics
 
 profile:
   align: center
@@ -42,19 +42,16 @@ My name is Joel (pronounced /xo'el/) and I am passionate about leveraging comput
 <p/>
 
 <p style="text-align: justify;">
-🤖 In 2020, I was a Health Data Science fellow at Insight Data Science, where I developed SuppSmart, a Natural Language Processing (NLP) based recommendation engine. This system suggests dietary supplements based on user queries, utilizing a dataset I curated from various online sources. I built the application by training a word2vec model from the ground up. Explore the <a href="https://suppsmart.streamlit.app"> app here</a> and the <a href="https://github.com/rodriguezmDNA/streamlit_suppsmart_demo"> repository here</a>
+🤖 In 2020, I was a Health Data Science fellow at Insight Data Science, where I developed SuppSmart, a Natural Language Processing (NLP) based recommendation engine. This system suggests dietary supplements based on user queries, utilizing a dataset I curated from various online sources. I built the application by training a <code>word2vec</code> model from the ground up. Explore the <a href="https://suppsmart.streamlit.app"> app here</a> and the <a href="https://github.com/rodriguezmDNA/streamlit_suppsmart_demo"> repository here</a>
 <p/>
-
-
 
 <p style="text-align: justify;">
 🫐 I subsequently joined Foodome/Naring Health, focusing on identifying natural compounds in plants that could potentially treat diseases through a Network Medicine approach. The company was later <a href="https://www.prnewswire.com/news-releases/viome-acquires-naring-health-to-further-its-lead-in-personalized-nutrition-and-longevity-301975499.html"> acquired by Viome.Inc.</a>
 </p>
 
+<p style="text-align: justify;"> 🧪 I spent about two and a half years at <a href="https://www.freenome.com"> Freenome </a>, applying computational biology techniques to analyze cfDNA and contributing to the development of novel assays for early colorectal cancer (CRC) detection.</p>
 
-<p style="text-align: justify;">
-🧪 Currently, I am at Freenome, contributing to the development of innovative non-invasive tests for early cancer detection.
-<p/>
+<p style="text-align: justify;"> 🧬 Recently, I transitioned to <a href="https://www.natera.com"> Natera </a>, where I continue to leverage computational tools and data to drive innovations in personalized medicine, with a focus on liquid biopsies and early cancer detection.</p>
 
 
 <div style="height: 50px;"></div>
