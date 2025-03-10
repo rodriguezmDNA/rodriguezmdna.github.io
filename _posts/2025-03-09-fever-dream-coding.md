@@ -32,9 +32,9 @@ It seems that it was built with [Cursor](https://www.cursor.com), and I've been 
 
 So I decided to do a thing: I made [pyXsort](http://rodriguezmdna.github.io/pixsort/). I wanted to see if I could just "make anything". Not a fulll-fleshed app in 20 minutes, but something over a week. It turned out I could do over a weekend. Thanks to ChatGPT I learned that PyScript exists and I could use it to make a simple web app. I also learned that I did not have to set up a server to host it, I could just use GitHub Pages. Everything would be processed on the client side. I tried prompting o3-mini-high as well as the newest 4.5 version, but neither work on the first try. I did a bit of old school Googling and saw that the call to PyScript was wrong. I fixed it with the help of a Hello World example and some trial and error. In the end I got a good-enough working app that anyone (n=3) could use.
 
-Is it useful? No.
-Is it dumb? Yes.
-Is it fun? Absolutely...maybe?
+Is it useful? No. <br>
+Is it dumb? Yes. <br>
+Is it fun? Absolutely...maybe? <br>
 
 I don't know...I'm still sick, but I did a thing and it was fun and I got to learn and that was the goal so play with it if you want:
 
