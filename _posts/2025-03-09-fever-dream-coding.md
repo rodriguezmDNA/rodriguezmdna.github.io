@@ -36,6 +36,6 @@ Is it useful? No. <br>
 Is it dumb? Yes. <br>
 Is it fun? Absolutely...maybe? <br>
 
-I don't know...I'm still sick, but I did a thing and it was fun and I got to learn and that was the goal so play with it if you want:
+I don't know...I'm still sick, but I did a thing and it was fun and I got to learn and that was the goal so play with it if you want at [https://rodriguezmdna.github.io/pixsort/](https://rodriguezmdna.github.io/pixsort/):
 
 <iframe src="https://rodriguezmdna.github.io/pixsort/" width="800" height="800"></iframe>
